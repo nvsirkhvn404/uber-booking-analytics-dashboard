@@ -1,4 +1,4 @@
-# Uber Operations Dashboard 🚖
+# Uber Booking Analytics Dashboard 🚖
 
 An interactive Power BI dashboard built to analyze Uber ride bookings, revenue performance, cancellations, customer satisfaction, and vehicle-wise trends using 150,000+ booking records.
 
@@ -42,7 +42,7 @@ An interactive Power BI dashboard built to analyze Uber ride bookings, revenue p
 ## Project Structure
 
 ```text id="zyx0so"
-uber_powerbi_project/
+uber-booking-analytics-dashboard/
 ├── Uber_Dashboard.pbix
 ├── README.md
 ├── assets/

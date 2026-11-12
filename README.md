@@ -2,24 +2,25 @@
 
 An interactive Power BI dashboard built to analyze Uber ride bookings, revenue performance, cancellations, customer satisfaction, and vehicle-wise trends using 150,000+ booking records.
 
-## Dashboard Preview
+## Preview
 
-### Home Page
+### Dashboard Demo
 
-![Home](assets/home.png)
+![Dashboard Demo](assets/dashboard-demo.gif)
 
-### Overview Dashboard
+### Overview
 
-![Overview](assets/overview.png)
+![Uber Dashboard Overview](assets/overview.png)
 
-## Key Metrics
+## Key Business Insights
 
-* 93K Completed Bookings
-* 57K Lost Bookings
-* 52M Revenue
-* 2.51M Total Distance
-* 4.40 Customer Rating
-* 4.23 Driver Rating
+- **Booking Performance:** 93K bookings were completed, while 57K were classified as lost, representing approximately 38% of the 150K total bookings.
+
+- **Vehicle Revenue:** Auto generates the highest revenue at approximately 13M, followed by Bike (11M) and Go Mini (10M). Uber XL contributes the least at approximately 2M.
+
+- **Customer Satisfaction:** Average customer rating (4.40) is slightly higher than driver rating (4.23), indicating a small satisfaction gap.
+
+- **Location Trends:** Khandsa records the highest number of pickups (600), while Ashram leads drop-offs (592).
 
 ## Features
 
@@ -41,12 +42,13 @@ An interactive Power BI dashboard built to analyze Uber ride bookings, revenue p
 
 ## Project Structure
 
-```text id="zyx0so"
+```
 uber-booking-analytics-dashboard/
 ├── Uber_Dashboard.pbix
 ├── README.md
-├── assets/
-└── dataset/
+└── assets/
+    ├── home.png
+    └── overview.png
 ```
 
 ## Author

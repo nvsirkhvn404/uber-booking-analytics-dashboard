@@ -44,10 +44,10 @@ An interactive Power BI dashboard built to analyze Uber ride bookings, revenue p
 
 ```
 uber-booking-analytics-dashboard/
-├── Uber_Dashboard.pbix
+├── uber_dashboard.pbix
 ├── README.md
 └── assets/
-    ├── home.png
+    ├── dashboard-demo.gif
     └── overview.png
 ```
 
